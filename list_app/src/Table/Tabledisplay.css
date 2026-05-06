@@ -1,0 +1,16 @@
+.main_layout{
+    display:flex;
+    flex-direction: column;
+    gap:16px;
+    margin: 16px;
+    border: 2px solid blue;
+    height: 50vh;
+    padding: 16px;
+
+}
+
+
+
+.main_table {
+  width: 75vw;
+}
